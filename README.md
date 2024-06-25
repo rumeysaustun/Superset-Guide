@@ -1,7 +1,7 @@
-# Superset-Guide
 
 ![image](https://github.com/rumeysaustun/Superset-Guide/assets/59111328/34f5a30b-7b71-42b7-95bf-643bca633a63)
 
+# Superset-Guide
 
 Superset kullanımı ile ilgili "Bu nasıl oluyor?" diye sorduğum bütün soruların cevabını burada topluyorum. Öncelikle klasik bir giriş yapalım.
 
